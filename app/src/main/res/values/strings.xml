@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Confirm">Подтвердить</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="textview">TextView</string>
+</resources>
